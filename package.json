@@ -1,0 +1,26 @@
+{
+  "name": "sockets",
+  "version": "1.0.0",
+  "description": "Proyecto sockets realizado en la práctica 2 llamada Sockets, en la unidad 3, de la materia de Programación Web 2.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UlisesOrtiz/socketsio.git"
+  },
+  "keywords": [
+    "Sockets"
+  ],
+  "author": "Ulises Ortíz Gómez",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/UlisesOrtiz/socketsio/issues"
+  },
+  "homepage": "https://github.com/UlisesOrtiz/socketsio#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.1.2"
+  }
+}
